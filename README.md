@@ -1,3 +1,28 @@
+#Portfolio Website
+
+This is my portfolio website designed using:
+
+1. HTML, CSS, JavaScript
+2. Tailwind CSS
+3. Craco
+4. React
+
+Site is also designed to work on Mobile Devices(Portfolio is responsive).
+
+Images below: 
+![image](https://user-images.githubusercontent.com/80683137/132867133-dcb91789-d5ab-4553-b4fe-92582fcff54c.png)
+<br><br>
+![image](https://user-images.githubusercontent.com/80683137/132867176-1c480c4a-83b3-4c00-b6eb-328ca120cbae.png)
+<br><br>
+![image](https://user-images.githubusercontent.com/80683137/132867234-c9c8d7a2-4c2f-44c9-abef-4e4755d77d8f.png)
+<br><br>
+
+Mobile Use:<br><br>
+![image](https://user-images.githubusercontent.com/80683137/132867815-1ab2d030-0b36-450e-a102-34cdcb8082e0.png)
+
+![image](https://user-images.githubusercontent.com/80683137/132867945-203474a8-8d5a-462b-bcdf-a8e5a31c63a1.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
