@@ -1,0 +1,19 @@
+<!-- This is a hidden form just for netlify, client won't see this, netlify only recognises static HTML Forms, hence we have to do this-->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!-- head content skipped -->
+</head>
+<body>
+
+<form name="contact" netlify netlify-honeypot="bot-field" hidden><!-- Hidden Attribute -->
+  <input type="text" name="name" />
+  <input type="email" name="email" />
+  <textarea name="message"></textarea>
+</form>
+
+<noscript>You need to enable JavaScript to run this app.</noscript>
+<div id="root"></div>
+</body>
+</html>
